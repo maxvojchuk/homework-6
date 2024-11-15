@@ -1,0 +1,25 @@
+.form {
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  gap: 15px;
+  flex-direction: column;
+  border: solid red 2px;
+  border-radius: 20px;
+  width: 300px;
+  padding: 50px;
+}
+label {
+  color: rgb(6, 82, 23);
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+input {
+  background-color: rgb(223, 86, 86);
+  border-radius: 50px;
+  box-shadow: inherit black 20px;
+}
+.button {
+  background-color: rgba(255, 37, 37, 0.503);
+  border-radius: 10px;
+}

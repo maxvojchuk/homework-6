@@ -1,0 +1,17 @@
+{
+  "name": "homework-6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/*.html"
+  },
+  "keywords": [],
+  "author": "Max",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.13.0"
+  }
+}

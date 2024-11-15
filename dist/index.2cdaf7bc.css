@@ -1,0 +1,29 @@
+.form {
+  border: 2px solid red;
+  border-radius: 20px;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  width: 300px;
+  margin: 0 auto;
+  padding: 50px;
+  display: flex;
+}
+
+label {
+  color: #065217;
+  font-family: Franklin Gothic Medium, Arial Narrow, Arial, sans-serif;
+  font-size: 20px;
+}
+
+input {
+  box-shadow: inherit black 20px;
+  background-color: #df5656;
+  border-radius: 50px;
+}
+
+.button {
+  background-color: #ff252580;
+  border-radius: 10px;
+}
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
